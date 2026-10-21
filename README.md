@@ -134,18 +134,21 @@ py -3 LumiAi.py --self-test
 
 ## ☕ Support LumiAi · Поддержать LumiAi
 
-**Love LumiAi? Help keep this independent project growing.** 💙  
-**Нравится LumiAi? Поддержи развитие независимого проекта!** 💙
+**Enjoy LumiAi? Support further development with an optional crypto donation.** 💙  
+**Нравится LumiAi? Можно поддержать дальнейшую разработку добровольным криптодонатом.** 💙
 
-Every contribution is appreciated, but donations are completely optional. LumiAi is free to use.  
-Любая поддержка приятна, но донаты — исключительно по желанию. LumiAi остаётся бесплатной.
+<a href="https://app.binance.com/uni-qr/Jv3MYVZ8">
+  <img src="docs/binance-pay-qr.svg" width="190" alt="Scan to support LumiAi using Binance Pay"/>
+</a>
 
-**💜 Donation link coming soon · Ссылка для донатов скоро появится**
+**[💛 Support via Binance Pay · Поддержать через Binance Pay](https://app.binance.com/uni-qr/Jv3MYVZ8)**
 
-[![Star this project](https://img.shields.io/badge/⭐_Star_this_project-on_GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serge9900/EncoderAndDecoder)
+<sub>Open the link in Binance or scan the QR code in the Binance app.<br/>Открой ссылку в Binance или отсканируй QR-код через приложение Binance.</sub>
 
-*Payment details will be added only after a working receiving method is confirmed.*  
-*Реквизиты появятся только после проверки возможности получения платежей.*
+**Recipient / Получатель:** `User-92ef9`  
+**Payment:** Crypto via Binance Pay — not a bank card or PayPal transfer.
+
+<sub>Donations are entirely optional; LumiAi remains free. Verify the recipient displayed in Binance before confirming a transfer.<br/>Поддержка полностью добровольная, LumiAi остаётся бесплатной. Перед отправкой проверь получателя в приложении Binance.</sub>
 
 </div>
 
