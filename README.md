@@ -132,6 +132,27 @@ py -3 LumiAi.py --self-test
 
 <div align="center">
 
+## ☕ Support LumiAi · Поддержать LumiAi
+
+**Love LumiAi? Help keep this independent project growing.** 💙  
+**Нравится LumiAi? Поддержи развитие независимого проекта!** 💙
+
+Every contribution is appreciated, but donations are completely optional. LumiAi is free to use.  
+Любая поддержка приятна, но донаты — исключительно по желанию. LumiAi остаётся бесплатной.
+
+**💜 Donation link coming soon · Ссылка для донатов скоро появится**
+
+[![Star this project](https://img.shields.io/badge/⭐_Star_this_project-on_GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serge9900/EncoderAndDecoder)
+
+*Payment details will be added only after a working receiving method is confirmed.*  
+*Реквизиты появятся только после проверки возможности получения платежей.*
+
+</div>
+
+---
+
+<div align="center">
+
 **Made by [Sergey Vardanyan](https://github.com/serge9900) · LumiAi v2.8**  
 *From an old idea to a modern little desktop app.* ✦
 
